@@ -31,7 +31,7 @@ public class Panel extends JPanel{
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				game = new Game();
-				
+		
 			}
 		});
 		JButton exitBtn = new JButton("Выход");
